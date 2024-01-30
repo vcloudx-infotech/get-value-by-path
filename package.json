@@ -1,6 +1,6 @@
 {
   "name": "get-value-by-path",
-  "version": "0.0.2",
+  "version": "0.0.1",
   "description": "",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
@@ -14,7 +14,7 @@
   "keywords": [
     "test"
   ],
-  "author": "vinodrajbhar",
+  "author": "vinodr-vcloudx",
   "license": "ISC",
   "devDependencies": {
     "tsup": "^8.0.1",
